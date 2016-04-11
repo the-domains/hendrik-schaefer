@@ -1,0 +1,28 @@
+name: hendrik schaefer
+favicon: null
+layout_spectrum: 0.6298347725532949
+typography_spectrum: 0.7456179994624108
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4398787727113813
+  lightness: 0.9731125156395137
+  saturation: 0.09155382728204131
+  rhythmicContrast: 0.963522404897958
+purpose: []
