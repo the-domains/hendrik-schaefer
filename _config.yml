@@ -1,6 +1,6 @@
 name: hendrik schaefer
 favicon: null
-layout_spectrum: 0.65527
+layout_spectrum: 0.32232
 typography_spectrum: 0.23672
 title: home
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
+    - '#010101'
     - '#ffffff'
-    - '#6cdc33'
-    - '#528c6d'
-    - '#272727'
-    - '#ed3333'
-  brandStrength: 0.5
+    - '#6d878f'
+    - '#ad4938'
+    - '#ee0000'
+  brandStrength: 0
   lightness: 1
-  saturation: 1
-  rhythmicContrast: 0.75
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
